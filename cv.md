@@ -33,3 +33,14 @@ function mouthSize(animal) {
   return animal.toLowerCase() == "alligator" ? "small" : "wide"
 }
 ```
+__Experience__
+- HTML, CSS - [Htmlacademy](https://htmlacademy.ru/profile/id1360817)
+- JavaScript - [Codewars](https://www.codewars.com/users/Dorell43/completed_solutions)
+
+__Education__
+1. HTML, CSS - [Htmlacademy](https://htmlacademy.ru)
+2. Git Basics - [GitBasics](https://learn.javascript.ru/screencast/git)
+3. JavaScript - [JavaScript](https://learn.javascript.ru)
+
+__English__
+- *A2*
